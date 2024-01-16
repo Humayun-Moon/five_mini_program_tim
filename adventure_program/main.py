@@ -1,4 +1,4 @@
-print("Welcome to explore yourself with the brave mind")
+print("Welcome to explore yourself /n with the brave mind")
 
 name = input("Enter your name: ").lower()
 print(f"Welcome again, {name} let's go to the explore yourself") 
